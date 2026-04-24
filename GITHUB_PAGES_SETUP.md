@@ -12,18 +12,9 @@ The site will be live within a few minutes at:
 
 **https://jaun7707.github.io/StrideQuest-Site/**
 
-## Verify
+## App Store Connect URLs
 
-After enabling, confirm each page loads:
-
-- https://jaun7707.github.io/StrideQuest-Site/
-- https://jaun7707.github.io/StrideQuest-Site/privacy.html
-- https://jaun7707.github.io/StrideQuest-Site/terms.html
-- https://jaun7707.github.io/StrideQuest-Site/support.html
-
-## App Store Connect
-
-Paste these into App Store Connect → App Information:
+### English (default)
 
 | Field | URL |
 |-------|-----|
@@ -31,6 +22,33 @@ Paste these into App Store Connect → App Information:
 | **Terms of Service URL** | `https://jaun7707.github.io/StrideQuest-Site/terms.html` |
 | **Support URL** | `https://jaun7707.github.io/StrideQuest-Site/support.html` |
 | **Marketing URL** | `https://jaun7707.github.io/StrideQuest-Site/` |
+
+### Spanish (es)
+
+| Field | URL |
+|-------|-----|
+| **Privacy Policy URL** | `https://jaun7707.github.io/StrideQuest-Site/es/privacy.html` |
+| **Terms of Service URL** | `https://jaun7707.github.io/StrideQuest-Site/es/terms.html` |
+| **Support URL** | `https://jaun7707.github.io/StrideQuest-Site/es/support.html` |
+| **Marketing URL** | `https://jaun7707.github.io/StrideQuest-Site/es/` |
+
+### Japanese (ja)
+
+| Field | URL |
+|-------|-----|
+| **Privacy Policy URL** | `https://jaun7707.github.io/StrideQuest-Site/ja/privacy.html` |
+| **Terms of Service URL** | `https://jaun7707.github.io/StrideQuest-Site/ja/terms.html` |
+| **Support URL** | `https://jaun7707.github.io/StrideQuest-Site/ja/support.html` |
+| **Marketing URL** | `https://jaun7707.github.io/StrideQuest-Site/ja/` |
+
+### Simplified Chinese (zh-Hans)
+
+| Field | URL |
+|-------|-----|
+| **Privacy Policy URL** | `https://jaun7707.github.io/StrideQuest-Site/zh-Hans/privacy.html` |
+| **Terms of Service URL** | `https://jaun7707.github.io/StrideQuest-Site/zh-Hans/terms.html` |
+| **Support URL** | `https://jaun7707.github.io/StrideQuest-Site/zh-Hans/support.html` |
+| **Marketing URL** | `https://jaun7707.github.io/StrideQuest-Site/zh-Hans/` |
 
 ## Custom Domain (Optional, Later)
 

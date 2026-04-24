@@ -96,3 +96,17 @@ details p { margin-top: 0.5rem; margin-bottom: 0; font-size: 0.95rem; }
 .site-footer a { color: var(--gray); }
 .site-footer a:hover { color: var(--moss); }
 .footer-links { display: flex; justify-content: center; gap: 1.25rem; margin-bottom: 0.5rem; }
+
+/* Language switcher */
+.lang-switcher {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.8rem;
+  background: var(--moss-light);
+  border-bottom: 1px solid var(--border);
+}
+.lang-switcher a { color: var(--gray); text-decoration: none; }
+.lang-switcher a:hover { color: var(--moss); }
+.lang-switcher a[aria-current="page"] { color: var(--moss); font-weight: 600; }
